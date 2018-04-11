@@ -1,0 +1,1 @@
+1. Link to kata: https://www.codewars.com/kata/my-head-is-at-the-wrong-end/train/javascript
