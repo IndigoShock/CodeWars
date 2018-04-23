@@ -1,0 +1,1 @@
+Link to kata: https://www.codewars.com/kata/calculate-average/solutions/javascript
